@@ -108,11 +108,11 @@
   }
 
   .bg-primary {
-    background-image: url(image/bg-primary.svg);
+    background-image: url(../image/bg-primary.svg);
   }
 
   .bg-dark {
-    background-image: url(image/bg-dark.svg);
+    background-image: url(../image/bg-dark.svg);
   }
   .head-brief {
     max-width: 600px;
